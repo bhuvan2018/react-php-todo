@@ -364,7 +364,6 @@ const Dashboard = () => {
             <Activity color="white" size={32} />
             <h1 style={styles.appTitle}>TaskFlow</h1>
           </div>
-          
           <p style={styles.motivationalQuote}>"{getMotivationalQuote()}"</p>
         </div>
         <div style={styles.inputContainer}>
