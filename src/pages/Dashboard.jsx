@@ -411,7 +411,6 @@ const Dashboard = () => {
           </div>
         )}
         
-        {/* Pending Tasks with cards design */}
         {tasks.length > 0 ? (
           <div style={{ marginBottom: '2rem' }}>
             <h2 style={styles.sectionTitle}>
