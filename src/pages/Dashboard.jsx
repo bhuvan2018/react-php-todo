@@ -385,7 +385,6 @@ const Dashboard = () => {
             <Plus size={24} />
           </button>
         </div>
-        
         {(tasks.length > 0 || completedTasks.length > 0) && (
           <div style={styles.progressContainer}>
             <div style={styles.progressHeader}>
