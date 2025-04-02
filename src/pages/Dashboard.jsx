@@ -291,7 +291,6 @@ const Dashboard = () => {
     },
   };
 
-  // Set greeting based on time of day
   useEffect(() => {
     const hour = new Date().getHours();
     if (hour < 12) setGreeting("Good morning");
