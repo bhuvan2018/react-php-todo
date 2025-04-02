@@ -349,7 +349,6 @@ const Dashboard = () => {
               <circle cx="60" cy="60" r="40" stroke="white" strokeWidth="20" />
             </svg>
           </div>
-          
           <div style={styles.headerTop}>
             <div style={{ display: 'flex', alignItems: 'center' }}>
               <Sun color="white" style={{ marginRight: '0.75rem' }} size={24} />
