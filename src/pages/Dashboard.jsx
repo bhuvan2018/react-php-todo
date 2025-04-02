@@ -469,8 +469,6 @@ const Dashboard = () => {
             <p style={styles.emptyStateText}>Time to add something new!</p>
           </div>
         )}
-        
-        {/* Completed Tasks with improved styling */}
         {completedTasks.length > 0 && (
           <div>
             <h2 style={styles.sectionTitle}>
