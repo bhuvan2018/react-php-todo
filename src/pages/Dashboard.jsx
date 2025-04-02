@@ -507,8 +507,6 @@ const Dashboard = () => {
             </div>
           </div>
         )}
-        
-        {/* Stylized Footer */}
         <div style={styles.footer}>
           <div style={styles.footerText}>
             {tasks.length > 0 || completedTasks.length > 0 ? 
@@ -524,5 +522,4 @@ const Dashboard = () => {
     </div>
   );
 };
-
 export default Dashboard;
