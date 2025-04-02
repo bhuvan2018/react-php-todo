@@ -410,7 +410,6 @@ const Dashboard = () => {
             </div>
           </div>
         )}
-        
         {tasks.length > 0 ? (
           <div style={{ marginBottom: '2rem' }}>
             <h2 style={styles.sectionTitle}>
