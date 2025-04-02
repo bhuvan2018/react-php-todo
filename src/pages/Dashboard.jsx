@@ -359,7 +359,6 @@ const Dashboard = () => {
               {new Date().toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' })}
             </div>
           </div>
-          
           <div style={styles.headerTitle}>
             <Activity color="white" size={32} />
             <h1 style={styles.appTitle}>TaskFlow</h1>
