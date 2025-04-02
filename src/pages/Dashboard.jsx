@@ -341,7 +341,6 @@ const Dashboard = () => {
   return (
     <div style={styles.container}>
       <div style={styles.cardContainer}>
-
         <div style={styles.header}>
           <div style={styles.headerCircle}>
             <svg width="120" height="120" viewBox="0 0 120 120" fill="none">
