@@ -368,7 +368,6 @@ const Dashboard = () => {
           <p style={styles.motivationalQuote}>"{getMotivationalQuote()}"</p>
         </div>
         
-        {/* Add Task Input with enhanced styling */}
         <div style={styles.inputContainer}>
           <input
             type="text"
