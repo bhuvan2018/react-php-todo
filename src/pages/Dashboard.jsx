@@ -500,7 +500,7 @@ const Dashboard = () => {
           </div>
           <div style={styles.footerBadge}>
             <Star size={12} color="#FDE68A" style={{ marginRight: '0.25rem' }} />
-            <span style={{ fontWeight: '500' }}>TaskFlow Pro</span>
+            <span style={{ fontWeight: '500' }}>By Bhuvan</span>
           </div>
         </div>
       </div>
