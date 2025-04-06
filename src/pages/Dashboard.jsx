@@ -5,7 +5,7 @@ const Dashboard = () => {
   const [tasks, setTasks] = useState([]);
   const [task, setTask] = useState("");
   const [completedTasks, setCompletedTasks] = useState([]);
-  const [greeting, setGreeting] = useState("Good morning");
+  const [greeting, setGreeting] = useState("Good morning"); 
   const styles = {
     container: {
       display: 'flex',
