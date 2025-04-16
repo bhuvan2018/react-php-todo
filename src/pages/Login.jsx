@@ -17,7 +17,6 @@ const Login = () => {
     e.preventDefault();
     setLoading(true);
     setError("");
-    
     try {
       const response = await axios.post("http://localhost/todo_app/api/login.php", user);
       
